@@ -36,7 +36,14 @@ Here are some ideas to get you started:
   * Some frontend skill(Flutter, React.js)
   * Crawling
 
+# My Git Repository(for storing snippets) Index
+
+You can open my repository github page with new windows `CTRL or SHIFT + Click`
+
+ * [Java](https://github.com/rura6502/snippets-java)
+ * [Spring Example Project](https://github.com/rura6502/snippets-spring)
+
 # I am
 
-- Mentor in [DnD](https://dnd.ac/)
+- Organizer in [DnD](https://dnd.ac/)
 - [GDG Busan Chapter Organizer](https://gdg.community.dev/u/mru3ag/)
